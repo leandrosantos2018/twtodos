@@ -1,0 +1,17 @@
+2024-01-07 00:34:39.675705-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "insert into todo (title, deadline, created_AT) values('estuda spring','2024-01-10',2024-01-10 00:00:00[*]');"; SQL statement:
+insert into todo (title, deadline, created_AT) values('estuda spring','2024-01-10',2024-01-10 00:00:00'); [42000-224]
+2024-01-07 02:00:12.318204-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 02:02:00.295316-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 02:04:51.433327-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 02:10:44.747987-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 02:15:08.991694-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 08:11:11.240825-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
+2024-01-07 08:12:51.997189-03:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: The object is already closed [90007-224]
